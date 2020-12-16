@@ -1,0 +1,25 @@
+debug: read db
+debug: json parse error
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: read db
+debug: action
+debug: create
+debug: read db
+debug: [{"title":"买水","done":true},{"title":"喝水","done":true},{"title":"吃饭","done":true}]
+debug: [object Object],[object Object],[object Object],[object Object]
+debug: object
+debug: [{"title":"买水","done":true},{"title":"喝水","done":true},{"title":"吃饭","done":true},{"title":"刷碗","done":false}]
+debug: action
+debug: create
+debug: read db
+debug: [{"title":"买水","done":true},{"title":"喝水","done":true},{"title":"吃饭","done":true},{"title":"刷碗","done":false}]
+debug: [object Object],[object Object],[object Object],[object Object],[object Object]
+debug: object
+debug: [{"title":"买水","done":true},{"title":"喝水","done":true},{"title":"吃饭","done":true},{"title":"刷碗","done":false},{"title":"吃药","done":false}]
+debug: read db
+debug: read db
+debug: read db
+debug: read db

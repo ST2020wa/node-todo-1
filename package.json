@@ -1,0 +1,24 @@
+{
+  "name": "node-todo-1",
+  "version": "0.0.1",
+  "main": "cli.js",
+  "license": "MIT",
+          "scripts":{
+        "test":"jest"
+},"bin":{
+  "t":"./cli.js"
+},
+  "files":[
+    "*.js"
+  ],
+  "dependencies": {
+    "commander": "^6.2.1",
+    "npm": "^6.14.9",
+    "inquirer": "^7.0.0",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "cross-env":"^6.0.3",
+    "jest": "^24.9.0"
+  }
+}
